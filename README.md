@@ -1,8 +1,8 @@
-# ForexAI Miantsa ❤️
+# ForexAI Miantsa ❤
 
 A cutting-edge AI-powered Forex trading platform built with Next.js, TypeScript, and modern web technologies. This application provides professional traders with advanced charting tools, AI-driven trading signals, and comprehensive market analysis capabilities.
 
-## 🚀 Features
+##  Features
 
 ### 📊 Advanced Charting System
 - **Multiple Chart Types**: Candlestick, Line charts, Currency Strength Heatmap, and Market Depth visualization
@@ -11,28 +11,28 @@ A cutting-edge AI-powered Forex trading platform built with Next.js, TypeScript,
 - **Interactive Features**: Fullscreen mode, volume display, customizable indicators
 - **Real-time Data**: Live price updates and market data streaming
 
-### 🤖 AI Trading Intelligence
+###  AI Trading Intelligence
 - **Smart Recommendations**: AI-generated BUY/SELL/HOLD signals with confidence scores
 - **Risk Assessment**: Automated risk level analysis (LOW/MEDIUM/HIGH)
 - **Entry/Exit Points**: Precise entry prices, target prices, and stop-loss levels
 - **Market Sentiment**: Overall market mood analysis with strength indicators
 - **Expected Returns**: Projected profit calculations for each recommendation
 
-### 💼 Trading Tools
+###  Trading Tools
 - **Live Dashboard**: Real-time profit/loss tracking with comprehensive metrics
 - **Market Overview**: Multi-currency pair monitoring with spread information
 - **Trading Strategies**: Trend-following, breakout, reversal, and scalping strategies
 - **File Analysis**: Upload and analyze trading data files
 - **Performance Metrics**: Win rate, total trades, active positions tracking
 
-### 🎨 Professional UI/UX
+###  Professional UI/UX
 - **Dark Theme**: Modern, eye-friendly dark interface optimized for long trading sessions
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 - **shadcn/ui Components**: Beautiful, accessible UI components built on Radix UI
 - **Smooth Animations**: Fluid transitions and interactive elements
 - **Customizable Layout**: Flexible grid system for personalized workspace
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Next.js 13 (App Router), TypeScript, React 18
 - **Styling**: Tailwind CSS, shadcn/ui component library
@@ -42,7 +42,7 @@ A cutting-edge AI-powered Forex trading platform built with Next.js, TypeScript,
 - **Data Visualization**: Recharts for additional charting capabilities
 - **State Management**: React hooks and context API
 
-## 📦 Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
@@ -76,7 +76,7 @@ A cutting-edge AI-powered Forex trading platform built with Next.js, TypeScript,
    
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-## 🚀 Deployment
+##  Deployment
 
 ### Vercel (Recommended)
 1. Connect your GitHub repository to Vercel
@@ -90,7 +90,7 @@ The app can be deployed to any platform supporting Next.js:
 - Digital Ocean App Platform
 - Self-hosted with Docker
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 forexai-miantsa/
@@ -112,7 +112,7 @@ forexai-miantsa/
 └── public/              # Static assets
 ```
 
-## 🎯 Key Components
+##  Key Components
 
 ### TradingChart Component
 - Supports 4 chart types with advanced technical analysis
@@ -146,7 +146,7 @@ NEXT_PUBLIC_WS_URL=your_websocket_url
 - **Charts**: Customize chart parameters in `components/TradingChart.tsx`
 - **Indicators**: Add new technical indicators in `lib/mockData.ts`
 
-## 📊 Screenshots
+## Screenshots
 
 <div align="center">
   <table>
@@ -201,7 +201,7 @@ NEXT_PUBLIC_WS_URL=your_websocket_url
 
 > **Note**: Replace the screenshot paths with your actual screenshot files. Place your 8 screenshots in a `screenshots/` folder in your repository root.
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -209,20 +209,9 @@ NEXT_PUBLIC_WS_URL=your_websocket_url
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built with ❤️ by Miantsa
-- Thanks to the Next.js team for the amazing framework
-- shadcn/ui for the beautiful component library
-- All contributors and the open-source community
-
-## 📞 Support
-
-For questions or support, please open an issue on GitHub or contact the maintainer.
 
 ---
 
