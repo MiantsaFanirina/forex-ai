@@ -1,10 +1,10 @@
-# ForexAI Miantsa ❤
+# ForexAI Miantsa 
 
 A cutting-edge AI-powered Forex trading platform built with Next.js, TypeScript, and modern web technologies. This application provides professional traders with advanced charting tools, AI-driven trading signals, and comprehensive market analysis capabilities.
 
 ##  Features
 
-### 📊 Advanced Charting System
+###  Advanced Charting System
 - **Multiple Chart Types**: Candlestick, Line charts, Currency Strength Heatmap, and Market Depth visualization
 - **Technical Indicators**: RSI, MACD, Bollinger Bands, EMA (20/50), Support/Resistance levels, Pivot Points, Stochastic Oscillator
 - **Timeframes**: 1 Minute to 1 Week intervals
@@ -130,7 +130,7 @@ forexai-miantsa/
 - Spread monitoring and volume analysis
 - Interactive pair selection and filtering
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables
 Create a `.env.local` file in the root directory:
@@ -211,7 +211,7 @@ NEXT_PUBLIC_WS_URL=your_websocket_url
 
 ##  License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+MIT License – feel free to use, modify, and contribute.
 
 ---
 
