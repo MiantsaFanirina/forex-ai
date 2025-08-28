@@ -1,4 +1,4 @@
-# ForexAI Miantsa 
+# Forex AI
 
 A cutting-edge AI-powered Forex trading platform built with Next.js, TypeScript, and modern web technologies. This application provides professional traders with advanced charting tools, AI-driven trading signals, and comprehensive market analysis capabilities.
 
