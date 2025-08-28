@@ -132,15 +132,6 @@ forexai-miantsa/
 
 ##  Configuration
 
-### Environment Variables
-Create a `.env.local` file in the root directory:
-
-```env
-# Add your environment variables here
-NEXT_PUBLIC_API_URL=your_api_url
-NEXT_PUBLIC_WS_URL=your_websocket_url
-```
-
 ### Customization
 - **Theme**: Modify colors in `tailwind.config.ts`
 - **Charts**: Customize chart parameters in `components/TradingChart.tsx`
