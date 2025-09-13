@@ -188,10 +188,6 @@ forexai-miantsa/
   </table>
 </div>
 
-> **Note**: Place your 8 screenshots in a `screenshots/` folder in your repository root with the exact filenames shown above.
-
-> **Note**: Replace the screenshot paths with your actual screenshot files. Place your 8 screenshots in a `screenshots/` folder in your repository root.
-
 ##  Contributing
 
 1. Fork the repository
